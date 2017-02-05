@@ -5,6 +5,7 @@ html {
 
 .headSection {
   color: white; 
+  background: url("./resources/the-flatiron-building.jpg");
 }
 
 .headSection h1 {
@@ -14,5 +15,7 @@ html {
 
 .headSection li {
   font-size: 18px;
-  font-weight: underline;
+  text-decoration: underline;
+  list-style: none;
+  line-height: 150%;
 }
