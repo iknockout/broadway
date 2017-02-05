@@ -5,7 +5,8 @@ html {
 
 .headSection {
   color: white; 
-  background: url("./resources/the-flatiron-building.jpg");
+  background-image: url("./resources/the-flatiron-building.jpg");
+  background-size: cover;
 }
 
 .headSection h1 {
@@ -19,3 +20,20 @@ html {
   list-style: none;
   line-height: 150%;
 }
+
+.processSection {
+  font-weight: bold;
+}
+
+.processSection h3 {
+  font-size: 32px;
+}
+
+.processSection h4 {
+  font-size: 23px;
+}
+
+.processSection p {
+  font-size: 14px;
+}
+
