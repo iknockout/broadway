@@ -37,3 +37,32 @@ html {
   font-size: 14px;
 }
 
+.infoSection {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.infoSection h3 {
+  color: white;
+  background-image: url("./resources/the-flatiron-building.jpg");
+  background-size: cover;
+}
+
+.infoSection p {
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.footSection {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+.footSection li {
+  text-decoration: underline;
+  list-style: none;
+  display: inline;
+}
+
